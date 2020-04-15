@@ -1,2 +1,5 @@
 # ITD
-Informacione tehnologije i društvo
+Predmet: Informacione tehnologije i društvo
+
+Mali projekat
+Tema: Adobe Photoshop i Illustrator
